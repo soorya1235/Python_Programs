@@ -1,0 +1,1 @@
+print("Reverse No",input("Enter the No")[::-1])

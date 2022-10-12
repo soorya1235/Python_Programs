@@ -1,0 +1,1 @@
+print("Duck Number" if "0" in input("Enter the number") else "Not a Duck Number")
