@@ -1,0 +1,16 @@
+#This is demo of yaml file
+---
+    username:   soorya
+    password:   test123
+    factories:
+                -   Bangalore
+                -   Chennai
+                -   Mumbai
+    Address:
+        Subaddress:
+                    -   a
+                    -   b
+                    -   c
+        Credentials:
+            name : soorya
+            password : password
