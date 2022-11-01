@@ -115,7 +115,7 @@ match = re.search(pattern, string)
 if match:
   print(match.group())
 else:
-  print("pattern not found")
+  print("pattern not found......")
 
 print(match.group)  
 print(match.group(1))  
